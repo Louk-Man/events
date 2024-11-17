@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="IV873wfHwmZN2BvOq5vE">
-    <mxGraphModel>
+    <mxGraphModel dx="1425" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NRQzGSNmXJWds7D0hunD-17" value="Anime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRQzGSNmXJWds7D0hunD-19" value="Id_Anime&lt;div&gt;English_Name&lt;/div&gt;&lt;div&gt;Score&lt;/div&gt;&lt;div&gt;Type&lt;/div&gt;&lt;div&gt;episode&lt;/div&gt;&lt;div&gt;aired&lt;/div&gt;&lt;div&gt;premiered&lt;/div&gt;&lt;div&gt;source&lt;/div&gt;&lt;div&gt;duration&lt;/div&gt;&lt;div&gt;Rating&lt;/div&gt;&lt;div&gt;Ranked&lt;/div&gt;&lt;div&gt;Popularity&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="NRQzGSNmXJWds7D0hunD-21" value="Genre" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRQzGSNmXJWds7D0hunD-22" value="id_Genre&lt;div&gt;Name_Genre&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRQzGSNmXJWds7D0hunD-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRQzGSNmXJWds7D0hunD-23" target="NRQzGSNmXJWds7D0hunD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRQzGSNmXJWds7D0hunD-23" value="Producer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRQzGSNmXJWds7D0hunD-24" value="id_producer&lt;div&gt;Name_producer&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="640" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NRQzGSNmXJWds7D0hunD-26" value="Studio" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRQzGSNmXJWds7D0hunD-27" value="Id_Studio&lt;div&gt;NameStudio&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRQzGSNmXJWds7D0hunD-28" value="Anime_Genre" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
